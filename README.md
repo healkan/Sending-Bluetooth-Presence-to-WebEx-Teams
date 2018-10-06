@@ -18,7 +18,7 @@ http://www.raspberrypi.org/learning/robo-butler/bluetooth-setup/
 
 Here is how the WiFi and Bluetooth dongles are connected to the Pi.
 
-
+![](./Raspberry1.png)
 
 The breakout ribbon and the breadboard are for connecting external peripherals.  For my project I want the PI to turn on/off a lamp.  In order to turn on a AC device, I needed a power brick with a switch relay.  I got one from "PowerSwitch".  Note that there are two lead wires coming out of the power brick.  Inside the brick is an "opto-isolator" that turns the power on and off depending whether a signal is received on the lead wires.  The lead wires are connected to the Raspberry Pi via the breadboard.
 
