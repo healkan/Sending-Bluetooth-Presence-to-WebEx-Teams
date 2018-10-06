@@ -36,7 +36,7 @@ Once I got all the hardware connected.  It's time to do some Python!
 
  
 
-The four things I want the PI to do are:
+The three things I want the PI to do are:
 
 (1) Detect Bluetooth signal
 
