@@ -26,6 +26,8 @@ The breakout ribbon and the breadboard are for connecting external peripherals. 
 
 The difficult part is to figure out which pins to connect the lead wire.  After some tries, I discovered that I am connected to pin "8".
 
+![](./Raspberry3.png)
+
 ## Putting It All Together
 
  
@@ -52,12 +54,13 @@ Luckily, other folks on the web already have created library modules for all the
 Here are the library modules I imported into the program.
 
  
+_import requests_
 
-import bluetooth
+_import bluetooth_
 
-import time
+_import time_
 
-import RPi.GPIO as GPIO
+_import RPi.GPIO as GPIO_
 
  
 
