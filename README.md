@@ -1,1 +1,1 @@
-# -Detecting-Presence-Using-Bluetooth-on-Raspberry-Pi
+# Detecting-Bluetooth-Presence-on-Raspberry-Pi
