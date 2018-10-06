@@ -1,4 +1,4 @@
-# Detecting-Bluetooth-Presence-on-Raspberry-Pi
+# Detecting Bluetooth Presence on Raspberry Pi and Sending Notification to WebEx Teams
 For this project I have modified the Pi to detect the presence of my iPhone using Bluetooth signal.  The objective is to detect whether a particular device within the vicinity of the Pi and then take some actions.   (An example situation is checking whether someone in your family is home or not, sort of a "poor man surveillance')
 
  
