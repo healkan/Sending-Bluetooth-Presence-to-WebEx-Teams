@@ -5,6 +5,8 @@ For this project I have modified the Pi to detect the presence of my iPhone usin
 
 Once a Bluetooth device is detected, I programmed my Pi to:  (1) Turn on a lamp, (2) send an message to a WebEx Teams room.
 
+![](./RaspberryPiBluetooth.png)
+
 ## Components and Setup:
 
 I configured the Raspberry Pi to run Raspbian.  There is a lot of resources on the web on how to setup the Pi.  I recommend the Raspberry Pi Cookbook which tells you the exact steps to get the Pi running.  The kit I used also contains an USB WiFi dongle, a breakout ribbon cable to connect to the I/O pins and a breadboard.
